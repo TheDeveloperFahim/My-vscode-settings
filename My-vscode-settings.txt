@@ -1,0 +1,36 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.fontSize": 20,
+  "editor.fontFamily": "Operator Mono Lig",
+  "editor.lineHeight": 35,
+  "files.autoSave": "afterDelay",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "editor.cursorBlinking": "expand",
+  "editor.fontLigatures": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "liveServer.settings.port": 13143,
+  "liveServer.settings.donotVerifyTags": true,
+  "security.workspace.trust.untrustedFiles": "open",
+
+  "terminal.integrated.tabs.location": "left",
+  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.fontSize": 15,
+  "breadcrumbs.enabled": false,
+  "terminal.integrated.lineHeight": 1.5,
+  "workbench.colorTheme": "Learn with Sumit - Blue Velvet",
+}
