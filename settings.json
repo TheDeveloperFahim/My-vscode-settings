@@ -1,1 +1,26 @@
-
+{
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "Operator Mono Lig , Cascadia Code",
+    "editor.tabSize": 2,
+    "editor.lineHeight": 38,
+    "editor.suggestLineHeight": 50,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "powermode.enabled": true,
+    "breadcrumbs.enabled": false,
+    "editor.renderWhitespace": "none",
+    "files.autoSave": "afterDelay",
+    "editor.smoothScrolling": true,
+    "powermode.enableShake": false,
+    "zenMode.fullScreen": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize": 15,
+    "workbench.colorTheme": "Monokai Pro",
+    "editor.minimap.enabled": false,
+    "workbench.productIconTheme": "fluent-icons"
+}
