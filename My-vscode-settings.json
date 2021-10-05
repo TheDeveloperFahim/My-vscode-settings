@@ -23,5 +23,6 @@
     "workbench.colorCustomizations": {
         "titleBar.activeBackground": "#78DCE8",
         "titleBar.activeForeground": "#222"
-    }
+    },
+    "editor.fontLigatures": true
 }
