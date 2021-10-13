@@ -1,26 +1,57 @@
 {
-    "workbench.iconTheme": "Monokai Pro Icons",
-    "editor.fontSize": 20,
-    "editor.fontFamily": "Operator Mono Lig , Cascadia Code",
-    "editor.tabSize": 2,
-    "editor.lineHeight": 38,
-    "editor.suggestLineHeight": 50,
-    "[javascriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "editor.cursorBlinking": "phase",
-    "editor.cursorSmoothCaretAnimation": true,
-    "powermode.enabled": true,
-    "breadcrumbs.enabled": false,
-    "editor.renderWhitespace": "none",
-    "files.autoSave": "afterDelay",
-    "editor.smoothScrolling": true,
-    "powermode.enableShake": false,
-    "zenMode.fullScreen": false,
-    "window.menuBarVisibility": "toggle",
-    "editor.fontLigatures": true,
-    "terminal.integrated.fontSize": 15,
-    "workbench.colorTheme": "Monokai Pro",
-    "editor.minimap.enabled": false,
-    "workbench.productIconTheme": "fluent-icons"
+  "editor.fontSize": 20,
+  "editor.fontFamily": " Operator Mono Lig , Cascadia Code",
+  "editor.lineHeight": 38,
+  "editor.suggestLineHeight": 50,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorSmoothCaretAnimation": true,
+  "powermode.enabled": true,
+  "editor.hover.enabled": true,
+  "editor.hover.sticky": true,
+  "breadcrumbs.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.smoothScrolling": true,
+  "powermode.enableShake": false,
+  "zenMode.fullScreen": false,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontSize": 15,
+  "editor.minimap.enabled": false,
+  "terminal.integrated.tabs.enabled": false,
+  "explorer.confirmDelete": false,
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
+  "bracket-pair-colorizer-2.rulerPosition": "Left",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "explorer.confirmDragAndDrop": false,
+  "editor.linkedEditing": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.cursorBlinking": "phase",
+  "workbench.iconTheme": "material-icon-theme",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "afterDelay",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.tabSize": 2,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Learn with Sumit - Blue Velvet",
+//   "workbench.colorCustomizations": {
+//     "sideBar.background": "#13131D",
+//     "activityBar.background": "#13131D",
+//     "titleBar.activeBackground": "#0B0B11",
+//     "titleBar.inactiveBackground": "#0B0B11",
+//     "statusBar.background": "#0B0B11"
+// },
+"editor.wordWrap": "on",
+"editor.bracketPairColorization.enabled": true,
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+"editor.formatOnSave": true,
+"terminal.external.linuxExec": "",
+  
 }
