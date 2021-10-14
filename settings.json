@@ -40,18 +40,27 @@
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "workbench.colorTheme": "Learn with Sumit - Blue Velvet",
-//   "workbench.colorCustomizations": {
-//     "sideBar.background": "#13131D",
-//     "activityBar.background": "#13131D",
-//     "titleBar.activeBackground": "#0B0B11",
-//     "titleBar.inactiveBackground": "#0B0B11",
-//     "statusBar.background": "#0B0B11"
-// },
-"editor.wordWrap": "on",
-"editor.bracketPairColorization.enabled": true,
-"editor.defaultFormatter": "esbenp.prettier-vscode",
-"editor.formatOnSave": true,
-"terminal.external.linuxExec": "",
-  
+  "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
+  "workbench.colorCustomizations": {
+    // Learn with sumit main theme
+    // "sideBar.background": "#13131D",
+    // "activityBar.background": "#13131D",
+    // "titleBar.activeBackground": "#0B0B11",
+    // "titleBar.inactiveBackground": "#0B0B11",
+    // "statusBar.background": "#0B0B11",
+
+    // for peace of the eay theme
+    "editorLineNumber.foreground": "#6DD3C2",
+    "editorLineNumber.activeForeground": "#A8DFD8",
+    "activityBar.background": "#141D2E",
+    "sideBar.background": "#141827",
+    "titleBar.activeBackground": "#141828",
+    "titleBar.inactiveBackground": "#141828",
+    "statusBar.background": "#0d121d"
+  },
+  "editor.wordWrap": "on",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "terminal.external.linuxExec": ""
 }
