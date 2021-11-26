@@ -6,13 +6,11 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.cursorSmoothCaretAnimation": true,
-  "powermode.enabled": true,
   "editor.hover.enabled": true,
   "editor.hover.sticky": true,
   "breadcrumbs.enabled": false,
   "editor.renderWhitespace": "none",
   "editor.smoothScrolling": true,
-  "powermode.enableShake": false,
   "zenMode.fullScreen": false,
   "editor.fontLigatures": true,
   "terminal.integrated.fontSize": 15,
@@ -42,29 +40,13 @@
   "zenMode.hideTabs": false,
   "zenMode.hideLineNumbers": false,
   "editor.cursorBlinking": "phase",
-  "workbench.productIconTheme": "fluent-icons",
   "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.organizeImports": true
   },
   "workbench.colorTheme": "Night Owl",
-  "terminal.integrated.defaultProfile.windows": "PowerShell",
-  "terminal.integrated.profiles.windows": {
-    "PowerShell": {
-      "source": "PowerShell",
-      "icon": "terminal-powershell"
-    },
 
-    "JavaScript Debug Terminal": {
-      "extensionIdentifier": "ms-vscode.js-debug",
-      "icon": "debug",
-      "id": "extension.js-debug.debugTerminal",
-      "title": "JavaScript Debug Terminal"
-    }
-  },
   "workbench.editor.enablePreview": false,
-  "liveServer.settings.donotShowInfoMsg": true,
-  "powermode.backgroundMode": "image",
   "editor.suggestLineHeight": 50,
   "workbench.colorCustomizations": {
     "sideBar.background": "#011525"
